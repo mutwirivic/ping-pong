@@ -23,8 +23,8 @@ for (var i=1; i <=number ; i++)
 $(document).ready(function(){
   $("#ping-form").submit(function(event){
     event.preventDefault();
-    var number=parseInt($("#input-number").val());
-    PingPong(number);
+    var userInput=parseInt($("#input-number").val());
+    PingPong(userInput);
     list.forEach(function(element){
     $("#result").append($("<li>").html(element));
     })
