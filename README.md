@@ -5,7 +5,7 @@ This website takes a number input then returns all the numbers from 1 to that nu
 ## Setup/Installation Requirements
 *Git clone this repository or download the zip file and open index.html on your browser.*
 ## Live Demo
-*link: https://mutwirivic.github.io/Ping-pong*
+*link: https://mutwirivic.github.io/ping-pong*
 ## Known bugs
 *No bugs.*
 ## Technologies used
